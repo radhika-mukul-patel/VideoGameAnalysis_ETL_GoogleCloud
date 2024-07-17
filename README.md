@@ -1,11 +1,17 @@
 # VideoGameAnalysis_ETL_GoogleCloud
 
 ## Objective: Market analysis
-#### A new company wants to enter the global video game market by launching their first video game. They must analyze the following:
+#### A new company wants to enter the global video game market by launching their first video game. Questions to consider:
+- Is it even viable to enter the market? 
+- What genre and platform must the new video game be compatible with? 
+- Which region should the new video game launch in? 
+
+#### They must analyze the following:
 - Competitive Landscape: Which publishers, platforms, genres have the biggest market share?
 - Profitability: What games, genres, regions are the most lucrative?
+- Gaps in the market: Is there a gap in the market that can be captured through creation of a Niche market?
 
-## Building the Data Pipeline
+## Data Pipeline: Batch ETL Pipeline in Google Cloud
 
 This is the visual representation of the ETL batch data pipeline used in this project
 ![image](https://github.com/user-attachments/assets/9aabacaf-3dce-42a7-b5b3-583103dec76b)
@@ -29,12 +35,27 @@ The Jupyter notebook used to extract the data from a csv file to Google Cloud ha
 
 ### 4. Data Querying: BigQuery
 
-Here's an example of Python code:
+All the queries are uploaded within the repository
+
+Overview of the loaded dataset:
+- Total video games-  16291
+- Avg Global Sales- $0.54 Million
+- Sum of Global Sales - $8811.97 Million
+- Year Range - 1980 to 2017 + 2020
+- Distinct publishers - 50
+- Distinct Platforms - 31
+- Distinct Genres - 12
+
+Create *focus_data_view* to focus only on important data to answer the question: (Only 1037 rows)
+- Remove rows with year before 2010
+- Remove Global Sales under the global sales average
+
+Create *regionrow_view* to analyze the data by region:
+- This was done with the use of CTEs
+- Remove columns for each separate region
+- Use crossjoin to add new rows per region. This increased the size of the dataset by 5 times. Normally this may not be a viable solution, but 5000 rows is still a manageable big dataset and this was required to make appropriate data visualizations
+- Use case when to appropriately add each sales value to the corresponding region
+
 
 ### 5. Data Visualization: Looker Studio
 
-```python
-def greet(name):
-    print("Hello, " + name + "!")
-
-greet("World")
