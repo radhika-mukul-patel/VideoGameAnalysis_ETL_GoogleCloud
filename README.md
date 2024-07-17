@@ -19,13 +19,13 @@ This is the visual representation of the ETL batch data pipeline used in this pr
 The dataset used for this purpose has been uploaded within this repository and was found on Kaggle: https://www.kaggle.com/code/upadorprofzs/eda-video-game-sales/input  
 
 ### 2. Data Extraction: Python Notebook to Google Cloud
-The Jupyter notebook used to extract the data from a csv file to Google Cloud has been uploaded within this repository
+The Jupyter notebook used to extract the data from a csv file to Google Cloud has been uploaded within this repository. This notebook uploads a local CSV file ("vgsales.csv") to Google Cloud Storage using the google.cloud.storage library. It first configures the upload by specifying the bucket name, desired filename in GCS, and local file path. Then, it connects to GCS, uploads the file, and handles any potential errors during the upload process
 
 ### 3. Data Transformation and Loading: Cloud Data Fusion
 **Transformation**: Cloud Data Fusion is Google's nocode data transformation tool. Since the dataset did not require intensive transformations, this was chosen over DataFlow. The following data transformations were made:
-- Changing datatype of NA_Sales from string to Double
-- Removing 'N/A' values from Year
-- Removing 'N/A' values from Publisher
+- Change datatype of NA_Sales from string to Double
+- Remove 'N/A' values from Year
+- Remove 'N/A' values from Publisher
   
 **Loading**: Created a batch data pipline connecting the Google storage bucket to Cloud data fusion and finally loading it onto BigQuery
 
