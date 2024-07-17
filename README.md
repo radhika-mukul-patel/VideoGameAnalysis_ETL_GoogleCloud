@@ -59,3 +59,5 @@ Create *regionrow_view* to analyze the data by region:
 
 ### 5. Data Visualization: Looker Studio
 
+## Conclusion
+
