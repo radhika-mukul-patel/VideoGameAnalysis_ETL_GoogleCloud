@@ -37,7 +37,7 @@ The Jupyter notebook used to extract the data from a csv file to Google Cloud ha
 
 All the queries are uploaded within the repository
 
-Overview of the loaded dataset:
+Overview of the **loaded** dataset:
 - Total video games-  16291
 - Avg Global Sales- $0.54 Million
 - Sum of Global Sales - $8811.97 Million
@@ -45,6 +45,7 @@ Overview of the loaded dataset:
 - Distinct publishers - 50
 - Distinct Platforms - 31
 - Distinct Genres - 12
+This overview changes with the focus dataset
 
 Create *focus_data_view* to focus only on important data to answer the question: (Only 1037 rows)
 - Remove rows with year before 2010
