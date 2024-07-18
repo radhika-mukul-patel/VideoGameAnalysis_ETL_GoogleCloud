@@ -45,6 +45,7 @@ Overview of the **loaded** dataset:
 - Distinct publishers - 50
 - Distinct Platforms - 31
 - Distinct Genres - 12
+
 This overview changes with the focus dataset
 
 Create *focus_data_view* to focus only on important data to answer the question: (Only 1037 rows)
