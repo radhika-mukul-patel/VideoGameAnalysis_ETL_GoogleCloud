@@ -85,6 +85,10 @@ Create *regionrow_view* to analyze the data by region:
 - Competitor Density: Pareto's law applies. The top 10 companies capture 80% of the total market share of all the 47 companies
 
   
-- Video Game 
+### Video Game Characteristics: 
+In order for the company to make a video that becomes popular as per demands of the consumers and be lucrative it must have the following chracteristics:
+- Genre: Shooter, Action or Sports in that order of precedence
+- Region: Launch in all as this is the industry standard, but spend more money in marketing in North America as that is largest market worldwide
+- Platform: The game should ideally be compliant with all 12 platforms, however in case of limited funds it must definitely be compliant with the latest versions of the platforms such as PS4 instead of PS3
 
 
