@@ -65,8 +65,6 @@ Create *regionrow_view* to analyze the data by region:
 
 ## Conclusion
 
-### General Overview:
-
 ### Genre:
 - Most common genre: Action at 297 games and $501M
 - Most lucrative genre based on yield (global sales divided by count): Shooter as it yielded $2.56M for each game vs $1.69M for Action
@@ -84,7 +82,7 @@ Create *regionrow_view* to analyze the data by region:
   - Has the highest market share of all companies at 16.19% in terms of all global sales which is $315M
   - Their most common genre is Sports and then Shooter games which is unlike the general overview where Action is the most common genre
   - Their biggest market is EU at 42.87% of their sales, closely followed by North America at 42.64% which is unlike the general overview where North America is the biggest market by a big margin
-- **Competitor Density:** Pareto's law applies. The top 10 companies capture 80% of the total market share of all the 47 companies
+- Competitor Density: Pareto's law applies. The top 10 companies capture 80% of the total market share of all the 47 companies
 
   
 - Video Game 
