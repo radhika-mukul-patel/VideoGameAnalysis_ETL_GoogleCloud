@@ -80,10 +80,10 @@ Create *regionrow_view* to analyze the data by region:
 - Most lucrative Platform: PS4 as it yielded $2.25M for each games vs $1.79M for PS3
 
 ### Competition: 
-- EA is the Publisher with the most number of Video Games at 173 which is 16.6% of all video games
-- Has the highest market share of all companies at 16.19% in terms of all global sales which is $315M
-- Their most common genre is Sports and then Shooter games which is unlike the general overview where Action is the most common genre
-- Their biggest market is EU at 42.87% of their sales, closely followed by North America at 42.64% which is unlike the general overview where North America is the biggest market by a big margin
+- Most Common and Lucrative Publisher: Electronic Arts at 173 games which is 16.6% of all video games
+  - Has the highest market share of all companies at 16.19% in terms of all global sales which is $315M
+  - Their most common genre is Sports and then Shooter games which is unlike the general overview where Action is the most common genre
+  - Their biggest market is EU at 42.87% of their sales, closely followed by North America at 42.64% which is unlike the general overview where North America is the biggest market by a big margin
 - **Competitor Density:** Pareto's law applies. The top 10 companies capture 80% of the total market share of all the 47 companies
 
   
