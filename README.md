@@ -64,8 +64,8 @@ Create *regionrow_view* to analyze the data by region:
 - The pdf version of the dashoard is also uploaded with this repository
 
 ## Conclusion
-- Overview
-- - 
+Overview
+- 
 - Competition
 -- Publisher
 
