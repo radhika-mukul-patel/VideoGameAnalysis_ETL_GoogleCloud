@@ -64,8 +64,7 @@ Create *regionrow_view* to analyze the data by region:
 - The pdf version of the dashoard is also uploaded with this repository
 
 ## Conclusion
-#### Competition
-**Electronic Arts**
+### Competition: **Electronic Arts**
 - EA is the Publisher with the most number of Video Games at 173 which is 16.6% of all video games
 - Has the highest market share of all companies at 16.19% in terms of all global sales which is $315,130,000
 - Their most famous genre is Sports and then Shooter games
