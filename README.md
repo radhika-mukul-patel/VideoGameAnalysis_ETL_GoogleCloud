@@ -46,7 +46,7 @@ Overview of the **loaded** dataset:
 - Distinct Platforms - 31
 - Distinct Genres - 12
 
-This overview changes with the focus dataset
+This overview changes with the focus dataset which is why the data visualization has different values
 
 Create *focus_data_view* to focus only on important data to answer the question: (Only 1037 rows)
 - Remove rows with year before 2010
