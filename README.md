@@ -60,6 +60,7 @@ Create *regionrow_view* to analyze the data by region:
 
 
 ### 5. Data Visualization: Looker Studio
+- https://lookerstudio.google.com/embed/reporting/65aaca47-4578-4e00-87be-990ecfd038c4/page/p_46xywhlejd 
 - The link to the dashboard: https://lookerstudio.google.com/s/qNJembVw2_o 
 - The pdf version of the dashoard is also uploaded with this repository
 
