@@ -66,24 +66,26 @@ Create *regionrow_view* to analyze the data by region:
 ## Conclusion
 
 ### General Overview:
+
+### Genre:
 - Most common genre: Action at 297 games and $501M
 - Most lucrative genre based on yield (global sales divided by count): Shooter as it yielded $2.56M for each game vs $1.69M for Action
+
+### Region
 - Most common region: All games were distributed in all regions and therefore each region has a count of 1037 games
 - Most lucrative region: North America at 45.23% of global sales share
+
+### Platform:
 - Most common platform: PS3 at 279 games and $498M sales
 - Most lucrative Platform: PS4 as it yielded $2.25M for each games vs $1.79M for PS3
-- Publisher with largest market share: Electronic Arts
 
 ### Competition: 
-#### **Electronic Arts**
 - EA is the Publisher with the most number of Video Games at 173 which is 16.6% of all video games
 - Has the highest market share of all companies at 16.19% in terms of all global sales which is $315M
 - Their most common genre is Sports and then Shooter games which is unlike the general overview where Action is the most common genre
 - Their biggest market is EU at 42.87% of their sales, closely followed by North America at 42.64% which is unlike the general overview where North America is the biggest market by a big margin
-  
-#### **Competitor Density:**
-- Pareto's law applies: The top 10 companies capture 80% of the total market share of all the 47 companies
-- This
+- **Competitor Density:** Pareto's law applies. The top 10 companies capture 80% of the total market share of all the 47 companies
+
   
 - Video Game 
 
