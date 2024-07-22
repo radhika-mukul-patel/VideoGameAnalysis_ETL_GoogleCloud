@@ -65,6 +65,9 @@ Create *regionrow_view* to analyze the data by region:
 
 ## Conclusion
 - Competition
+    - **Electronic Arts**: is the Publisher with the most number of Video Games at 173 which is 16.6% of all video games. It also the highest market share of all companies at 16.19% in terms of all global sales which is $315,130,000. Their most famous genre is Sports and then Shooter games. Their biggest market is EU at 42.87% of their sales, closely followed by North America at 42.64% which is unlike the general overview
+    - **Competitor Density:** The top 10 companies capture 80% of the total market share of all the 47 companies
+    - This 
 - Video Game 
 
 
